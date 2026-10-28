@@ -5,7 +5,7 @@ Mobile app + web app + admin panel + backend + payments, from one codebase, test
 
 <p>
   <a href="https://mahmoudfahmy616572.github.io/My_protfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-live-7C4DFF?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://linkedin.com/in/mahmoud__fahmy"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mahmoud__fahmy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/mahmoud-fahmy-129946322"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mahmoud--fahmy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:mahmoudfahmeyy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mahmoudfahmeyy@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -56,4 +56,4 @@ Mobile app + web app + admin panel + backend + payments, from one codebase, test
 - **Contract work**: Flutter app builds, Supabase backends, payments integration (Paymob), AI voice features
 - **Relocation to Germany** for a Master's in Software Engineering (SoSe 2027)
 
-📫 **mahmoudfahmeyy@gmail.com** · [Portfolio](https://mahmoudfahmy616572.github.io/My_protfolio/) · [LinkedIn](https://linkedin.com/in/mahmoud__fahmy)
+📫 **mahmoudfahmeyy@gmail.com** · [Portfolio](https://mahmoudfahmy616572.github.io/My_protfolio/) · [LinkedIn](https://linkedin.com/in/mahmoud-fahmy-129946322)
